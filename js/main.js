@@ -1,2 +1,2 @@
 // user input
-alert("Hello world!");
+// alert("Hello world!");
